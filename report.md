@@ -10,7 +10,7 @@ UECM3033 Assignment #1 Report
 
 The reports, codes and supporting documents are uploaded to Github at: 
 
-[https://github.com/1300400/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
+[https://github.com/seeboonchai/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
 
 
 ---------------------------------------------------------
@@ -46,6 +46,7 @@ ANSWER
 1.The hexadecimal representation of 1300400 is 0x13d7b0
 
 2.$$\int_0^1 cos(x^2) dx = \sqrt(2)\times\sqrt(pi)\times fresnels(sqrt(2)\div sqrt(pi))\times Γ(1/4)\times Γ(5/4)$$
+
 
  [which actually means: sqrt(2)*sqrt(pi)*fresnelc(sqrt(2)/sqrt(pi))*gamma(1/4)/(8*gamma(5/4)) in python]
 
